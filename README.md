@@ -14,3 +14,7 @@ File Description :
 3. claims_check_test.py --> Runs the Claims check on test data.
 4. claims_check_main.py --> main file that calls files 2 and 3 to make predictions.
 
+
+
+Data Curated from the reserach paper : https://www.researchgate.net/figure/List-of-ambiguous-promotional-claims-by-pharmaceutical-companies-in-the-light-of_tbl2_6936857/actions#reference --> Thanks to the authors :)
+
